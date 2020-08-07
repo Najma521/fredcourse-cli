@@ -286,7 +286,7 @@ What do you see? Compare that to opening a new window in `Finder`.
 
 - Open the link above in a new tab.
 - Open
-  [this link](https://git.generalassemb.ly/dc-wdi-fundamentals/directory-tree)
+  [this link]https://github.com/frederickbanks/fredcourse-directory-tree
 - Click the `Clone or Download` button and then click `Download ZIP`
 - Create a new directory and unzip the file in it
 - Navigate your terminal to the directory you just created
@@ -614,8 +614,6 @@ else is capable with these commands.
 
 ## Additional Practice / Bonus Material
 
-- [Command Line Fu](https://git.generalassemb.ly/dc-wdi-fundamentals/command-line-fu)
-- [Kitchen Organizer](https://git.generalassemb.ly/dc-wdi-fundamentals/kitchen-organizer)
 - [Learn You Bash](https://github.com/denysdovhan/learnyoubash)
 - [Command Line Power User](https://commandlinepoweruser.com/)
 - [Awesome Bash](https://github.com/awesome-lists/awesome-bash)
